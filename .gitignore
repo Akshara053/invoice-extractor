@@ -1,0 +1,14 @@
+__pycache__/
+.extracted_data/
+uploads/
+*.db
+node_modules/
+exlpro-frontend/node_modules/
+exlpro-frontend/build/
+
+extracted_data/
+uploads/
+exlpro-frontend/node_modules/
+exlpro-frontend/build/
+users.db
+
